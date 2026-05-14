@@ -1,0 +1,8 @@
+{
+  "name": "Andijan State Medical Institute",
+  "country": "Uzbekistan",
+  "feeStructure": "$3500 per year",
+  "eligibility": "50% in PCB",
+  "description": "One of the oldest medical institutes in Uzbekistan.",
+  "images": ["https://example.com/image1.jpg"]
+}
